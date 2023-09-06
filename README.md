@@ -1,4 +1,5 @@
-### Óla! Eu sou o Giovani Marques ✋Aprendiz de Programador! Buscando aprender novas tecnologias e se especializar nessa área.
+### Óla! Eu sou o Giovani Marques 
+✋Certificado AWS - Certified Cloud Practitioner, Estudando para DevOps
 
 <div align="center">
   <a href="https://github.com/DevGiovaniMarques">
@@ -11,13 +12,11 @@
 ## Tecnologias que uso no meu dia
          
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://www.scalefactory.com/blog/2021/04/30/hashicorp-terraform-release-key-rotation/Terraform.png">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible"> 
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://kubernetes.io/images/favicon.png">
 </div>
   <br />
 

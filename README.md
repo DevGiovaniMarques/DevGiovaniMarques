@@ -1,6 +1,7 @@
-### Olá! Eu sou o Giovani Marques 
-✋Certificado AWS - Certified Cloud Practitioner.
-Estou interessado em tecnologia em nuvem e nos processos de desenvolvimento, teste e lançamento de software, permitindo a entrega contínua (CI/CD) de software e atualizações de software. Portanto, prefiro ferramentas da AWS e DevOps. 
+###Olá! Eu sou Giovani Marques 👋
+Sou certificado AWS - Certified Cloud Practitioner e tenho grande interesse por tecnologias em nuvem.
+
+Atualmente, estou expandindo minha atuação na área de cibersegurança, cursando uma pós-graduação em Segurança Ofensiva e Inteligência Cibernética. Além disso, estou em formação prática no curso Novo Pentest Profissional da DESEC Security, aprofundando meus conhecimentos em testes de invasão, análise de vulnerabilidades e segurança ofensiva.
 
 <div align="center">
   <a href="https://github.com/DevGiovaniMarques">

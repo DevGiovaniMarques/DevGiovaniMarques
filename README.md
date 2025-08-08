@@ -12,12 +12,12 @@ Atuar como Analista de Segurança Nível 1, contribuindo na detecção, triagem 
 
 | Habilidade                                      | Projeto Associado           |
 |------------------------------------------------|-----------------------------|
-| Implementação de SIEM e Análise de Logs        | SOC Automation Lab |
-| Monitoramento de Tráfego de Rede e Detecção de Ataques | SOC Automation Lab  |
-| Automação de Segurança com Shuffle SOAR        | SOC Automation Lab          |
-| Planejamento e Execução de Resposta a Incidentes | SOC Automation Lab          |
-| Gestão de Casos com TheHive                    | SOC Automation Lab          |
-| Scripts e Automação para Mitigação de Ameaças  | SOC Automation Lab          |
+| Implementação de SIEM e Análise de Logs        | Em construção |
+| Monitoramento de Tráfego de Rede e Detecção de Ataques | Em construção  |
+| Automação de Segurança com Shuffle SOAR        | Em construção          |
+| Planejamento e Execução de Resposta a Incidentes | Em construção          |
+| Gestão de Casos com TheHive                    | Em construção          |
+| Scripts e Automação para Mitigação de Ameaças  | Em construção          |
 
 # Ferramentas
 

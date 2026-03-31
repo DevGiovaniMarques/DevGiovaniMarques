@@ -2,8 +2,25 @@
 
 <a href="https://www.linkedin.com/in/giovani-marques/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Sou entusiasta de cibersegurança, em transição para a área técnica, com foco em análise de segurança e resposta a incidentes. Estou me preparando para a certificação Security+ e desenvolvendo habilidades práticas com foco em SOC Analyst (Tier 1) e Cybersecurity Analyst Jr.
+Sou um entusiasta de cibersegurança em transição para a área técnica,
+com foco em **Blue Team, SOC e Resposta a Incidentes**.
 
+Venho de São Manuel, SP, e decidi direcionar minha carreira para a defesa cibernética
+depois de perceber que proteger sistemas é tão desafiador quanto atacá-los —
+e muito mais estratégico.
+
+Atualmente estou cursando uma **Pós-Graduação em Segurança Defensiva**,
+onde desenvolvo habilidades práticas em:
+
+- 🔍 Análise de logs e correlação de eventos com SIEM
+- 🌐 Monitoramento de tráfego de rede e detecção de intrusões
+- 🚨 Triagem de alertas e resposta a incidentes
+- ⚙️ Automação de segurança com SOAR
+- 🔎 Threat Hunting e inteligência de ameaças
+
+Estou construindo um portfólio prático aqui no GitHub com labs,
+writeups e projetos reais de Blue Team.
+Me conecte no LinkedIn — estou sempre aberto a trocar experiências!
 ## Objetivo
 
 Atuar como Analista de Segurança Nível 1, contribuindo na detecção, triagem e resposta a incidentes de segurança cibernética. Busco oportunidades para aplicar meu conhecimento técnico, crescer com desafios reais e colaborar com times de Blue Team.
